@@ -11,6 +11,8 @@
 
 Find my recent projects here :
 
+* **[AI Agent to perform coding task](https://github.com/siddhantsidh15/First-AI-Agent)**
+
 1. **[E-commerce Website using ReactJS, Redux library with Stripe payment integration](https://siddhantsiddh15superm.netlify.app/)**
 2. **[Shoe store Website using HTML, CSS and JavaScript](https://siddhantsiddh15shoe-store.netlify.app/)**
 3. **[Markdown Editor like GitHub and Hashnode using JavaScript, HTML and CSS](https://siddhantsiddh15-markdown-editor.netlify.app/)**
